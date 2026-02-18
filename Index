@@ -1,0 +1,60 @@
+< DOCTYPE>
+<html>
+
+<head>
+    <title>Chúc mừng năm mới</title>
+    <style>
+        h1 {
+            color: red;
+        }
+
+        h2 {
+            color: green;
+        }
+
+        .image-link {
+            display: inline-block;
+            margin: 20px;
+            text-align: center;
+        }
+
+        .image-link img {
+            width: 200px;
+            height: auto;
+            border: 5px solid; /* Adjust the border width here */
+            border-radius: 10px;
+        }
+
+        .red-frame {
+            border-color: red;
+        }
+
+        .green-frame {
+            border-color: green;
+        }
+
+        .blue-frame {
+            border-color: blue;
+        }
+
+        .yellow-frame {
+            border-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Cung chúc tân xuân</h1>
+    <h2>Năm mới phát tài phát lộc</h2>
+
+    <div>
+        <img src="maket-tet-2026.jpg" class="red-frame" alt="Xuân Bính Ngọ">
+    </div>
+
+    <div class="image-link">
+        <img src="maket-tet-2026" class="green-frame" alt="Mừng năm mới 2">
+        <p>Mừng năm mới 2</p>
+    </div>
+
+</body>
+</html>
